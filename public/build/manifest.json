@@ -1,0 +1,34 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app.ab6af8a0.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "_lodash.5d7aa4c9.js",
+      "_index.16e64fd2.js"
+    ]
+  },
+  "_lodash.5d7aa4c9.js": {
+    "file": "assets/lodash.5d7aa4c9.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_index.16e64fd2.js": {
+    "file": "assets/index.16e64fd2.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/css\\app.css": {
+    "file": "assets/app.179954eb.css",
+    "src": "resources/css\\app.css"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.179954eb.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  }
+}
